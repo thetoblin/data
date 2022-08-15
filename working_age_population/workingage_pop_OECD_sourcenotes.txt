@@ -1,0 +1,19 @@
+OECD (2022), Working age population (indicator). https://doi.org/10.1787/d339918b-en (Accessed on 29 June 2022)
+
+
+Unit: % of population
+
+The working age population is defined as those aged 15 to 64. This indicator measures the share of the working age population in total population.
+
+
+
+
+
+@article{/content/data/d339918b-en,
+   author = "OECD",
+   title = "Working age population",
+   year = "2014",
+   url = "https://www.oecd-ilibrary.org/content/data/d339918b-en",
+   doi = "https://doi.org/https://doi.org/10.1787/d339918b-en" 
+}
+

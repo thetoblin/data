@@ -1,0 +1,8 @@
+
+Source: OECD
+https://stats.oecd.org/Index.aspx?DataSetCode=MW_CURP
+
+Minimum wages in current prices (National Currency Unit used in OECD statistics)
+
+Accessed 18 April 2022
+
